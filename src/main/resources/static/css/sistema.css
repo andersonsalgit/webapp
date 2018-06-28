@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+.alinhar-centro {
+ 
+	display: inline-flex;
+  	vertical-align: middle;
+  	align-items: center;	  
+}
+ 
+.erro-msg {
+	color: red;
+ 
+}
+ 
+.sucesso-msg {
+	color: blue;
+ 
+}
